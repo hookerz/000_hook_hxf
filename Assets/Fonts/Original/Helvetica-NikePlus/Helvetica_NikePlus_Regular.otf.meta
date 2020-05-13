@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4174af911ce2f4146be4ef44c746c176
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica-NikePlus
+  fontNames:
+  - Helvetica-NikePlus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b628b962719e49ad8fabb62fb2d7cb8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
